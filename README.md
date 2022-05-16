@@ -1,7 +1,13 @@
-<h1 align="center">Hi <img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">, I'm Prashant Kumar</h1>
+<h1 align="center">Hello world <img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">, I'm <a href="https://iharryd.github.io/portfolio">Prashant Kumar</a></h1>
 
 <h3 align="left">About me:</h3>
-<p align="left">I'm a professional <strong>passionate</strong> full-stack developer.</p>
+<p align="left">I'm a <strong>passionate</strong> and self-taught full-stack web developer.</p>
+
+<ul>
+  <li>🔭  I’m currently working on something cool 😉</li>
+  <li>🌱  I’m currently learning NextJS, Redux</li>
+  <li>💬  Talk with me about anything related to tech, career, music and anime</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/iHarry910" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/></a>
