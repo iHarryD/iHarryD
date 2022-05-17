@@ -4,9 +4,9 @@
 <p align="left">I'm a <strong>passionate</strong> and self-taught full-stack web developer.</p>
 
 <ul>
-  <li>🔭  I’m currently working on something cool 😉</li>
-  <li>🌱  I’m currently learning NextJS, Redux</li>
-  <li>💬  Talk with me about anything related to tech, career, music and anime</li>
+  <li>🔭  I’m always working on something cool 😉</li>
+  <li>🌱  I’m currently learning NextJS, Redux 👨‍💻</li>
+  <li>💬  Talk with me about anything related to tech 🤖, career 🚀, music 🎵 and anime 💖</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
